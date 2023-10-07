@@ -1,0 +1,9 @@
+{
+  "name": "hello-worl-server",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@apollo/server": "^4.9.4",
+    "graphql": "^16.8.1"
+  }
+}
