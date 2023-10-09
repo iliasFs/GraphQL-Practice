@@ -25,4 +25,6 @@ console.log(`server running at ${info.url}`);
 
 //IMPORTAND
 // if we visit the link witch runs the server it will open a page in the browser and display the
-// Apollo Sandbox. This is a tool that we use to make GraphQL Queries. The Sandbox is enabled by default when we run Apollo Server in Development.Its a web based client that we can use to call any GraphQl Api.Api
+// Apollo Sandbox. This is a tool that we use to make GraphQL Queries.
+//  The Sandbox is enabled by default when we run Apollo Server in Development.
+//  Its a web based client that we can use to call any GraphQl Api.Api
